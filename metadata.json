@@ -1,0 +1,9 @@
+{
+  "name": "Pianotech Pro",
+  "description": "Precision regulation and diagnostic tool for piano technicians using device sensors and computer vision guides.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
